@@ -1,0 +1,61 @@
+.photo{  
+background: url(image/logo.jpg);
+	width: 35%
+height:90px;
+  }
+
+.h{background: royalblue; margin-left: 100px;
+	color: white;
+text-align:left;
+line-height: 30px;
+width:50%
+height:100%
+}
+.c{
+	border-left:20px 
+	border-style:dotted;
+}
+
+
+.b{ color: white;
+	background-color: royalblue;
+	text-align: center;
+}
+
+.contenu{text-align: center;
+}
+	
+
+.l{
+list-style-type: none;	 
+	display:inline-block;important;
+color:white;text-align: right;
+}
+.but{
+	color:white;     
+	background : royalblue;
+}
+
+
+
+.pied{
+	display:inline-block!important;
+	position: center;
+}
+
+.m{
+	color: royalblue;
+	border : dotted;
+	border-color: royalblue;
+	width: 10%;
+	background: white;
+	text-align: center;
+}
+.s{
+	text-align: center;
+}
+
+.bout{ 
+color: white;
+background:royalblue;
+ }
